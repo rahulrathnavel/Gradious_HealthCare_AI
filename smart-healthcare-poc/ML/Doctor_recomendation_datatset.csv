@@ -1,0 +1,2941 @@
+fever,cough,breathlessness,chest_pain,headache,digestive_problem,joint_or_muscle_problem,skin_problem,urinary_problem,fatigue,specialization
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,0,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,0,Pulmonology
+1,0,1,0,0,0,0,0,0,1,Pulmonology
+0,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,0,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,0,Pulmonology
+1,0,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,0,0,0,0,0,0,Cardiology
+0,0,0,0,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,0,0,0,0,0,0,Cardiology
+0,0,0,0,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,0,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+0,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,0,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,0,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,0,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,0,0,1,1,0,1,0,0,1,General Medicine
+0,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,0,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,0,1,1,0,0,0,0,0,1,Pulmonology
+0,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,0,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,0,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,0,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,0,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,0,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,0,Pulmonology
+1,0,1,0,0,0,0,0,0,1,Pulmonology
+0,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,0,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,0,Pulmonology
+1,0,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,0,0,0,0,0,0,Cardiology
+0,0,0,0,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,0,0,0,0,0,0,Cardiology
+0,0,0,0,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,0,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+0,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,0,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,0,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,0,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,0,0,1,1,0,1,0,0,1,General Medicine
+0,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,0,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,0,1,1,0,0,0,0,0,1,Pulmonology
+0,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,0,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,0,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,0,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,0,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,0,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,0,Pulmonology
+1,0,1,0,0,0,0,0,0,1,Pulmonology
+0,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,0,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,0,Pulmonology
+1,0,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,0,0,0,0,0,0,Cardiology
+0,0,0,0,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,0,0,0,0,0,0,Cardiology
+0,0,0,0,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,0,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+0,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,0,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,0,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,0,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,0,0,1,1,0,1,0,0,1,General Medicine
+0,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,0,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,0,1,1,0,0,0,0,0,1,Pulmonology
+0,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,0,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,0,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,0,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,0,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,0,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,0,Pulmonology
+1,0,1,0,0,0,0,0,0,1,Pulmonology
+0,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,0,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,0,Pulmonology
+1,0,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,0,0,0,0,0,0,Cardiology
+0,0,0,0,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,0,0,0,0,0,0,Cardiology
+0,0,0,0,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,0,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+0,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,0,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,0,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,0,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,0,0,1,1,0,1,0,0,1,General Medicine
+0,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,0,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,0,1,1,0,0,0,0,0,1,Pulmonology
+0,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,0,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,0,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,0,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,0,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,0,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,0,Pulmonology
+1,0,1,0,0,0,0,0,0,1,Pulmonology
+0,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,0,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,0,Pulmonology
+1,0,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,0,0,0,0,0,0,Cardiology
+0,0,0,0,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,0,0,0,0,0,0,Cardiology
+0,0,0,0,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,0,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+0,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,0,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,0,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,0,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,0,0,1,1,0,1,0,0,1,General Medicine
+0,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,0,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,0,1,1,0,0,0,0,0,1,Pulmonology
+0,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,0,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,0,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,0,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,0,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,0,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,0,Pulmonology
+1,0,1,0,0,0,0,0,0,1,Pulmonology
+0,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,0,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+1,1,1,0,0,0,0,0,0,0,Pulmonology
+1,0,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,0,0,0,0,0,0,Cardiology
+0,0,0,0,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,1,0,0,0,0,0,0,Cardiology
+0,0,0,0,1,0,0,0,0,0,Cardiology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,0,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+0,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,0,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,1,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,0,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,0,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,0,0,1,1,0,1,0,0,1,General Medicine
+0,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,0,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,0,1,1,0,0,0,0,0,1,Pulmonology
+0,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,0,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,0,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,0,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,1,1,0,0,0,0,0,0,Cardiology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,1,0,1,0,1,0,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,0,0,Gastroenterology
+1,0,0,0,0,0,0,0,0,0,General Medicine
+1,1,1,0,0,0,0,0,0,1,Pulmonology
+0,0,0,1,1,0,0,0,0,0,Cardiology
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+1,0,0,0,0,1,0,1,0,1,Gastroenterology
+1,0,0,0,1,0,0,1,0,1,General Medicine
+1,0,0,0,0,1,1,0,0,0,Gastroenterology
+0,0,0,0,0,1,0,1,1,1,Gastroenterology
+0,0,0,0,0,1,0,0,0,1,Gastroenterology
+0,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,0,0,0,0,1,1,0,0,1,Gastroenterology
+1,1,0,1,1,0,1,0,0,1,General Medicine
+1,1,1,1,0,0,0,0,0,1,Pulmonology
+0,0,1,1,0,1,0,0,0,0,Cardiology
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,0,0,1,0,0,0,Orthopedics
+0,0,0,0,1,1,0,0,0,0,Neurology
+0,0,0,0,0,0,0,1,0,0,Dermatology
+0,0,0,0,0,0,0,0,1,0,Urology
+0,0,0,0,0,0,1,1,0,0,Dermatology
+1,0,0,0,0,0,0,1,0,0,Dermatology
