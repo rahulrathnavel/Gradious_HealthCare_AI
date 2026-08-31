@@ -1,10 +1,10 @@
 services:
   - type: web
-    name: smart-healthcare-api
+    name: smart-healthcare-poc
     env: python
-    rootDir: smart-healthcare-poc/backend
-    buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn app:app --bind 0.0.0.0:$PORT
+    region: ohio
+    buildCommand: "cd smart-healthcare-poc/backend && pip install -r requirements.txt"
+    startCommand: "cd smart-healthcare-poc/backend && gunicorn app:app"
     envVars:
       - key: MONGO_URI
         sync: false
@@ -12,5 +12,3 @@ services:
         sync: false
       - key: JWT_SECRET
         generateValue: true
-      - key: PYTHON_VERSION
-        value: 3.10.0
