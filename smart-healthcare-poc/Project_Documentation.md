@@ -25,3 +25,4 @@ The solution is built as a complete full-stack web application:
 - **Generative AI**: NVIDIA LLM API (`meta/llama-3.2-11b-vision-instruct`)
 - **Database**: MongoDB (Atlas), PyMongo
 - **Version Control**: Git, GitHub
+

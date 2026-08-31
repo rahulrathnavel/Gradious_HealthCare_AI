@@ -11,6 +11,10 @@
 
 This is a complete, professional, production-quality full-stack application. It securely handles patient symptom recommendations, doctor appointments, and medical report parsing via GenAI.
 
+### 🔴 Live Demo
+**Link**: [https://smart-healthcare-poc.onrender.com/](https://smart-healthcare-poc.onrender.com/)  
+*(Note: Because this application is hosted on Render's free tier, the server spins down after periods of inactivity. It may take 2 to 3 minutes to load initially—kindly wait and try our system. Thank you!)*
+
 ## Features
 1. **Specialist Recommendation**: Uses the trained Logistic Regression model to recommend 1 of 8 medical specialties based on 10 binary symptoms. If no symptoms are selected, routes gracefully to manual doctor booking.
 2. **Doctor Discovery & Appointment Booking**: Browse doctors by specialty, view dynamic availability, and book appointments securely. Includes logic to prevent double bookings.
