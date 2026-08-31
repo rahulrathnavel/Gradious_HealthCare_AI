@@ -1,99 +1,42 @@
-import joblib
-import pandas as pd
-from flask import Flask, request, jsonify, send_from_directory
+from flask import Flask, send_from_directory, jsonify
+from flask_cors import CORS
+from database.db import init_db
+from routes.auth_routes import auth_bp
+from routes.api_routes import api_bp
 import os
+import logging
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 app = Flask(__name__, static_folder='../frontend', static_url_path='/')
+CORS(app)  # Enable CORS for all routes if testing externally
 
-FEATURES = [
-    "fever",
-    "cough",
-    "breathlessness",
-    "chest_pain",
-    "headache",
-    "digestive_problem",
-    "joint_or_muscle_problem",
-    "skin_problem",
-    "urinary_problem",
-    "fatigue"
-]
+# Initialize Database
+init_db()
 
-# Verified from the notebook output
-CLASS_MAPPING = {
-    0: "Cardiology",
-    1: "Dermatology",
-    2: "Gastroenterology",
-    3: "General Medicine",
-    4: "Neurology",
-    5: "Orthopedics",
-    6: "Pulmonology",
-    7: "Urology"
-}
+# Register Blueprints
+app.register_blueprint(auth_bp)
+app.register_blueprint(api_bp)
 
-# Load the model
-model_path = os.path.join(os.path.dirname(__file__), "model", "logistic_regression_model.joblib")
-model = joblib.load(model_path)
-
+# Frontend Serving Routes
 @app.route('/')
 def index():
     return send_from_directory(app.static_folder, 'index.html')
 
+# Catch-all for SPA routes to index.html or static files
 @app.route('/<path:path>')
 def static_proxy(path):
-    return send_from_directory(app.static_folder, path)
+    if os.path.exists(os.path.join(app.static_folder, path)):
+        return send_from_directory(app.static_folder, path)
+    return send_from_directory(app.static_folder, 'index.html')
 
-@app.route('/predict', methods=['POST'])
-def predict():
-    try:
-        data = request.json
-        if not data:
-            return jsonify({"error": "No JSON data provided"}), 400
-
-        # Validate fields
-        answers = {}
-        for feature in FEATURES:
-            if feature not in data:
-                return jsonify({"error": f"Missing required feature: {feature}"}), 400
-            
-            value = data[feature]
-            if value not in [0, 1]:
-                return jsonify({"error": f"Invalid value for {feature}. Must be 0 or 1."}), 400
-                
-            answers[feature] = value
-
-        # Create DataFrame
-        X = pd.DataFrame([[answers[f] for f in FEATURES]], columns=FEATURES)
-
-        # Predict probabilities
-        probabilities = model.predict_proba(X)[0]
-        classes = model.classes_
-
-        # Rank predictions
-        ranked = sorted(
-            zip(classes, probabilities),
-            key=lambda x: x[1],
-            reverse=True
-        )
-
-        results = []
-        for class_id, probability in ranked[:3]:
-            specialty_name = CLASS_MAPPING.get(int(class_id), str(class_id))
-            results.append({
-                "specialty": specialty_name,
-                "probability": float(probability)
-            })
-
-        response = {
-            "recommended_specialty": results[0]["specialty"],
-            "top_matches": results
-        }
-
-        return jsonify(response)
-
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
+# Error Handler
+@app.errorhandler(404)
+def not_found(e):
+    return jsonify({"success": False, "error": {"message": "Endpoint not found"}}), 404
 
 if __name__ == '__main__':
-    print("Starting Smart Healthcare POC server on http://localhost:5000")
-    app.run(host='0.0.0.0', port=5000, debug=True)
-
+    port = int(os.environ.get("PORT", 5000))
+    logger.info(f"Starting Smart Healthcare Application on port {port}")
+    app.run(host='0.0.0.0', port=port, debug=True)

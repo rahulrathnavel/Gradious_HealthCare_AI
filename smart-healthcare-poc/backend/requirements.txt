@@ -2,4 +2,12 @@ Flask
 pandas
 scikit-learn
 joblib
-
+pymongo
+bcrypt
+PyJWT
+requests
+python-dotenv
+Pillow
+PyMuPDF
+filetype
+Flask-Cors

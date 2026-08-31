@@ -3,23 +3,206 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Smart Healthcare POC</title>
+    <title>Smart Healthcare</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>Smart Healthcare</h1>
-            <h2>Doctor Specialty Recommendation</h2>
-        </header>
+    <nav id="navbar" class="hidden">
+        <div class="nav-brand">Smart Healthcare</div>
+        <div class="nav-links">
+            <a href="#" onclick="showPage('dashboard')">Dashboard</a>
+            <a href="#" onclick="showPage('questionnaire')">Find Specialist</a>
+            <a href="#" onclick="loadAllDoctors()">Browse Doctors</a>
+            <a href="#" onclick="showPage('ai-assistant')">AI Assistant</a>
+            <a href="#" onclick="logout()">Logout</a>
+        </div>
+    </nav>
 
-        <main id="app-container">
-            <!-- Dynamic content injected here -->
-        </main>
+    <div class="container">
+        <!-- Toast Notifications -->
+        <div id="toast" class="toast hidden"></div>
+
+        <!-- Auth Pages -->
+        <div id="page-login" class="page">
+            <div class="auth-card">
+                <h2>Welcome Back</h2>
+                <p>Sign in to your account</p>
+                <form id="login-form">
+                    <input type="email" id="login-email" placeholder="Email" required>
+                    <input type="password" id="login-password" placeholder="Password" required>
+                    <button type="submit" class="btn-primary">Login</button>
+                </form>
+                <p class="auth-switch">Don't have an account? <a href="#" onclick="showPage('register')">Register</a></p>
+            </div>
+        </div>
+
+        <div id="page-register" class="page hidden">
+            <div class="auth-card">
+                <h2>Create Account</h2>
+                <form id="register-form">
+                    <input type="text" id="reg-name" placeholder="Full Name" required>
+                    <input type="email" id="reg-email" placeholder="Email" required>
+                    <input type="password" id="reg-password" placeholder="Password" required>
+                    <button type="submit" class="btn-primary">Register</button>
+                </form>
+                <p class="auth-switch">Already have an account? <a href="#" onclick="showPage('login')">Login</a></p>
+            </div>
+        </div>
+
+        <!-- Dashboard -->
+        <div id="page-dashboard" class="page hidden">
+            <h2>Welcome, <span id="user-name">User</span></h2>
+            
+            <div class="dashboard-actions">
+                <div class="action-card" onclick="startQuestionnaire()">
+                    <h3>Find the right specialist</h3>
+                    <p>Answer a few questions to get a recommendation.</p>
+                </div>
+                <div class="action-card" onclick="showPage('ai-assistant')">
+                    <h3>Understand my medical report</h3>
+                    <p>Upload a document for a simple explanation.</p>
+                </div>
+            </div>
+
+            <div class="appointments-section">
+                <h3>My Appointments</h3>
+                <div id="appointments-list">Loading...</div>
+            </div>
+        </div>
+
+        <!-- Questionnaire -->
+        <div id="page-questionnaire" class="page hidden">
+            <div class="card questionnaire-card">
+                <div class="progress-header">
+                    <span id="q-progress-text">Question 1 of 10</span>
+                    <span id="q-progress-pct">10%</span>
+                </div>
+                <div class="progress-bar">
+                    <div id="q-progress-fill" class="progress-fill" style="width: 10%"></div>
+                </div>
+                
+                <h3 id="question-text" class="question-text"></h3>
+                
+                <div class="options">
+                    <button class="btn-option" onclick="handleAnswer(1)">YES</button>
+                    <button class="btn-option" onclick="handleAnswer(0)">NO</button>
+                </div>
+                
+                <button id="btn-back-q" class="btn-nav" onclick="goBackQ()">← Back</button>
+            </div>
+        </div>
+
+        <div id="page-review" class="page hidden">
+            <div class="card">
+                <h3 class="question-text">Review your answers</h3>
+                <div id="review-list"></div>
+                <button class="btn-primary mt-20" id="btn-recommend" onclick="getRecommendation()">Get Recommendation</button>
+                <button class="btn-nav mt-20" onclick="showPage('dashboard')">Cancel</button>
+            </div>
+        </div>
+
+        <div id="page-zero-symptoms" class="page hidden">
+            <div class="card" style="text-align: center; padding: 3rem 1rem;">
+                <h3 style="color: var(--primary-color);">No specific symptoms selected</h3>
+                <p style="margin: 1rem 0; color: var(--text-muted); font-size: 1.1rem;">
+                    If you're feeling well, that's great! If your concern isn't covered by this questionnaire, you can choose a doctor manually.
+                </p>
+                <button class="btn-primary mt-20" onclick="loadAllDoctors()" style="max-width: 250px;">Browse Doctors</button>
+            </div>
+        </div>
+
+        <div id="page-all-doctors" class="page hidden">
+            <div class="card">
+                <h2>Browse All Doctors</h2>
+                <div class="filters mt-20" style="margin-bottom: 20px;">
+                    <select id="filter-specialty" onchange="filterDoctors()">
+                        <option value="">All Specialties</option>
+                        <option value="Cardiology">Cardiology</option>
+                        <option value="Dermatology">Dermatology</option>
+                        <option value="Gastroenterology">Gastroenterology</option>
+                        <option value="General Medicine">General Medicine</option>
+                        <option value="Neurology">Neurology</option>
+                        <option value="Orthopedics">Orthopedics</option>
+                        <option value="Pulmonology">Pulmonology</option>
+                        <option value="Urology">Urology</option>
+                    </select>
+                </div>
+                <div id="all-doctors-list">Loading...</div>
+            </div>
+        </div>
+
+        <div id="page-recommendation" class="page hidden">
+            <div class="card">
+                <div class="result-title">Recommended specialty</div>
+                <div class="main-recommendation">
+                    <div id="rec-specialty" class="specialty-name" style="font-size: 1.5rem; font-weight: 700; color: var(--primary-color);"></div>
+                    <div style="margin-top: 10px; font-weight: 500; color: var(--text-muted);">
+                        Model score: <span id="rec-prob"></span>
+                    </div>
+                    <div class="text-sm text-muted">Based on your selected symptoms</div>
+                </div>
+                
+                <h4 style="margin-top: 20px;">Other matches:</h4>
+                <div class="other-matches" id="rec-other"></div>
+                
+                <div class="disclaimer mt-20" style="padding: 15px; background: #fffbeb; color: #b45309; border-radius: var(--radius); font-size: 0.875rem;">
+                    <strong>Note:</strong> This is a proof-of-concept specialty recommendation and is not a medical diagnosis.
+                </div>
+            </div>
+            
+            <div class="doctors-section mt-20">
+                <h3>Available Doctors</h3>
+                <div id="doctors-list">Loading...</div>
+            </div>
+        </div>
+
+        <!-- AI Assistant -->
+        <div id="page-ai-assistant" class="page hidden">
+            <div class="card">
+                <h2>Medical Report Assistant</h2>
+                <p class="text-muted">Upload a medical report or paste text for a simplified explanation.</p>
+                
+                <form id="ai-form">
+                    <textarea id="ai-text" rows="5" placeholder="Paste medical text here..."></textarea>
+                    <div class="file-upload">
+                        <label for="ai-file">Or upload image/PDF:</label>
+                        <input type="file" id="ai-file" accept="image/*,application/pdf">
+                    </div>
+                    <button type="submit" class="btn-primary mt-20" id="btn-ai-analyze">Analyze</button>
+                </form>
+
+                <div id="ai-result" class="ai-result hidden mt-20">
+                    <h3>Analysis</h3>
+                    <div id="ai-content"></div>
+                </div>
+            </div>
+        </div>
+
     </div>
 
+    <!-- Booking Modal -->
+    <div id="booking-modal" class="modal hidden">
+        <div class="modal-content">
+            <h3>Book Appointment</h3>
+            <p id="book-doctor-name"></p>
+            <form id="booking-form">
+                <input type="hidden" id="book-doctor-id">
+                <input type="date" id="book-date" required>
+                <select id="book-time" required>
+                    <option value="">Select Time</option>
+                </select>
+                <input type="text" id="book-patient-name" placeholder="Patient Name" required>
+                <textarea id="book-notes" placeholder="Notes (optional)"></textarea>
+                <div class="modal-actions">
+                    <button type="button" class="btn-nav" onclick="closeModal()">Cancel</button>
+                    <button type="submit" class="btn-primary">Confirm</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
-
